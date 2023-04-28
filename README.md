@@ -1,5 +1,5 @@
-###HABILIDADES Y TECNOLOGIAS
+### HABILIDADES Y TECNOLOGIAS
 Se programar en:
--Java
--Html (a duras penas!)
--sql
+- Java
+- Html (a duras penas!)
+- sql
