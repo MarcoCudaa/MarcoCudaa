@@ -21,3 +21,5 @@ Mis hobbies son jugar a videojuegos varios y ver novelas latinas 😼 además de
 ![gokuvs](https://user-images.githubusercontent.com/132058314/235125237-c1286b60-903c-4cec-854f-6d8887ef3df5.jpg)
 
 Domino programacion en java, ayer logré finalizar con la aplicación más difícil con la que un java developer jamás se ha topado... 😼
+![image](https://user-images.githubusercontent.com/132058314/235127764-4830407d-d0af-4128-859d-6a3f37861488.png)
+
