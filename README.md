@@ -1,25 +1,18 @@
 ### HABILIDADES Y TECNOLOGIAS 😼
 Se programar en:
-- Java 😼
-- Html (a duras penas!) 😼
-- sql 😼
-Planeo aprender a desarrollar videojuegos en Unity y aprender C y Python. :smirk_cat:
-En el futuro planeo vivir de hacer apps en java y juegos en unity 😼:smirk_cat:
+- Bloc de notas
 
 Tengo gran experiencia laboral en los siguientes sectores:
-- Hosteleria (1 verano) 😼
+- Ninguno
 
-Estoy actualmente estudiando un grado superior 😼 de desarrollo de aplicaciones multiplataforma 😼 😼 😼
-Ademas tengo bach de ciencias y la ESO 😼 😼
+No tengo estudios ni futuro
 
 Mis datos de contacto son
-📫 marcocuda03@gmail.com
-📞 +34 678 75 62 83
-📷@__wqr_
+Ninguno: Nadie me habla
 
-Mis hobbies son jugar a videojuegos varios y ver novelas latinas 😼 además de aprender más cada día! 😼
+Mis hobbies son jugar a videojuegos y perder tiempo (soy un fracasado)
 ![gokuvs](https://user-images.githubusercontent.com/132058314/235125237-c1286b60-903c-4cec-854f-6d8887ef3df5.jpg)
 
-Domino programacion en java, ayer logré finalizar con la aplicación más difícil con la que un java developer jamás se ha topado... 😼
+Domino programacion en fracasado.
 ![image](https://user-images.githubusercontent.com/132058314/235127764-4830407d-d0af-4128-859d-6a3f37861488.png)
 
